@@ -1,3 +1,3 @@
-# My_Portfolio
+# My Portfolio
 
 Contains files for my portfolio website
